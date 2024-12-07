@@ -76,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Choose an appropriate license, e.g., MIT License]
+MIT License
 
 ## Author
 
@@ -84,7 +84,7 @@ Adrian Statescu
 
 ## Screenshots
 
-[You might want to add screenshots of your application here]
+____
 
 ## Troubleshooting
 
